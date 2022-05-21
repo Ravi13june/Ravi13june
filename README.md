@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ravi13june
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning JavaScript and ReactJS
 - 💞️ I’m looking to collaborate on TensorflowJS
