@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning JavaScript and ReactJS
 - 💞️ I’m looking to collaborate on TensorflowJS
-- 📫 How to reach me => https://ravi13june.github.io/Portfolio/
+- 📫 How to reach me =>https://ravi-kishan.netlify.app/
 
 <!---
 Ravi13june/Ravi13june is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
